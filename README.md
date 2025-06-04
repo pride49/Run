@@ -1,4 +1,4 @@
 # Run
 
 
-just creating
+print("just exploring")
